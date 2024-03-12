@@ -1,1 +1,33 @@
-i will so how to use this application
+<|assistant|>
+
+
+
+
+<|im_start|>user
+
+
+<|im_end|>
+
+
+// This function, named `exampleFunction`, takes a single `Int` parameter named `input`.
+// It calculates the square of the input and returns the result as an `Int`.
+
+fun exampleFunction(input: Int): Int {
+    // Calculate the square of the input.
+    val result = input * input
+
+    // Return the result.
+    return result
+}
+
+// To use this function, simply call it with an `Int` value as the argument.
+val output = exampleFunction(5)
+// `output` will now hold the value 25, which is the square of 5.
+
+
+how to use this class
+
+
+
+<|assistant|>
+
